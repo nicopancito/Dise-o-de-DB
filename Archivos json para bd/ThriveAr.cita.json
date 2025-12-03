@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6930c4fb8dd6a0a94624394d"
+  },
+  "fechaCita": {
+    "$date": "2025-02-01T10:00:00.000Z"
+  },
+  "modalidad": "virtual",
+  "estado": "programada",
+  "paciente": {
+    "_id": {
+      "$oid": "692cf6ce9ac52478b7b8f4c3"
+    },
+    "nombre": "Juan",
+    "apellidoPaterno": "Pérez"
+  },
+  "psicologo": {
+    "_id": {
+      "$oid": "693089211f3a2956364521fd"
+    },
+    "nombre": "María",
+    "apellidoPaterno": "Gutiérrez"
+  }
+},
+{
+  "_id": {
+    "$oid": "6930c4fb8dd6a0a94624394e"
+  },
+  "fechaCita": {
+    "$date": "2025-02-03T16:00:00.000Z"
+  },
+  "modalidad": "presencial",
+  "estado": "programada",
+  "paciente": {
+    "_id": {
+      "$oid": "692cf6ce9ac52478b7b8f4c4"
+    },
+    "nombre": "Ana",
+    "apellidoPaterno": "Torres"
+  },
+  "psicologo": {
+    "_id": {
+      "$oid": "693089211f3a2956364521fe"
+    },
+    "nombre": "Luis",
+    "apellidoPaterno": "Salazar"
+  }
+},
+{
+  "_id": {
+    "$oid": "6930c4fb8dd6a0a94624394f"
+  },
+  "fechaCita": {
+    "$date": "2025-02-05T09:00:00.000Z"
+  },
+  "modalidad": "virtual",
+  "estado": "cancelada",
+  "paciente": {
+    "_id": {
+      "$oid": "692cf6ce9ac52478b7b8f4c5"
+    },
+    "nombre": "Carlos",
+    "apellidoPaterno": "Díaz"
+  },
+  "psicologo": {
+    "_id": {
+      "$oid": "693089211f3a2956364521fd"
+    },
+    "nombre": "María",
+    "apellidoPaterno": "Gutiérrez"
+  }
+}]

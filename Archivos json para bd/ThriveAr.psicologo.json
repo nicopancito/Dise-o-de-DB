@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "693089211f3a2956364521fd"
+  },
+  "nombre": "María",
+  "apellidoPaterno": "Gutiérrez",
+  "apellidoMaterno": "Lozano",
+  "email": "maria.gutierrez@clinicaperu.com",
+  "licencia": "PSI-001",
+  "centro": "Centro de Salud Mental Lima",
+  "estado": "disponible",
+  "verificado": true
+},
+{
+  "_id": {
+    "$oid": "693089211f3a2956364521fe"
+  },
+  "nombre": "Luis",
+  "apellidoPaterno": "Salazar",
+  "apellidoMaterno": "Mendoza",
+  "email": "luis.salazar@terapiavida.org",
+  "licencia": "PSI-002",
+  "centro": "Terapia Vida",
+  "estado": "en_revision",
+  "verificado": false
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "692cf6ce9ac52478b7b8f4c3"
+  },
+  "nombre": "Juan",
+  "apellidoPaterno": "Pérez",
+  "apellidoMaterno": "",
+  "email": "juan.perez@gmail.com",
+  "fechaNacimiento": "1993-05-15",
+  "pais": "Peru",
+  "telefono": "912345678",
+  "nivelSuscripcion": "gratis",
+  "estadoCuenta": "activo"
+},
+{
+  "_id": {
+    "$oid": "692cf6ce9ac52478b7b8f4c4"
+  },
+  "nombre": "Ana",
+  "apellidoPaterno": "Torres",
+  "apellidoMaterno": "",
+  "email": "ana.torres@gmail.com",
+  "fechaNacimiento": "1996-08-22",
+  "pais": "Peru",
+  "telefono": "987654321",
+  "nivelSuscripcion": "gratis",
+  "estadoCuenta": "activo"
+},
+{
+  "_id": {
+    "$oid": "692cf6ce9ac52478b7b8f4c5"
+  },
+  "nombre": "Carlos",
+  "apellidoPaterno": "Díaz",
+  "apellidoMaterno": "",
+  "email": "carlos.diaz@gmail.com",
+  "fechaNacimiento": "1978-11-03",
+  "pais": "Peru",
+  "telefono": "923456789",
+  "nivelSuscripcion": "gratis",
+  "estadoCuenta": "activo"
+}]

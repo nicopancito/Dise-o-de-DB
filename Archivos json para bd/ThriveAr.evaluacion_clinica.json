@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6930c4fb8dd6a0a946243950"
+  },
+  "fechaEvaluacion": {
+    "$date": "2025-01-15T10:00:00.000Z"
+  },
+  "motivoConsulta": "Ansiedad generalizada",
+  "diagnostico": "Trastorno de ansiedad leve",
+  "recomendaciones": "Sesiones semanales de terapia cognitivo conductual",
+  "nivelRiesgo": "bajo",
+  "paciente": {
+    "_id": {
+      "$oid": "692cf6ce9ac52478b7b8f4c3"
+    },
+    "nombre": "Juan",
+    "apellidoPaterno": "Pérez"
+  },
+  "psicologo": {
+    "_id": {
+      "$oid": "693089211f3a2956364521fd"
+    },
+    "nombre": "María",
+    "apellidoPaterno": "Gutiérrez"
+  }
+},
+{
+  "_id": {
+    "$oid": "6930c4fb8dd6a0a946243951"
+  },
+  "fechaEvaluacion": {
+    "$date": "2025-01-18T14:00:00.000Z"
+  },
+  "motivoConsulta": "Estrés laboral",
+  "diagnostico": "Estrés moderado",
+  "recomendaciones": "Ejercicios de respiración y seguimiento mensual",
+  "nivelRiesgo": "medio",
+  "paciente": {
+    "_id": {
+      "$oid": "692cf6ce9ac52478b7b8f4c4"
+    },
+    "nombre": "Ana",
+    "apellidoPaterno": "Torres"
+  },
+  "psicologo": {
+    "_id": {
+      "$oid": "693089211f3a2956364521fe"
+    },
+    "nombre": "Luis",
+    "apellidoPaterno": "Salazar"
+  }
+},
+{
+  "_id": {
+    "$oid": "6930c4fb8dd6a0a946243952"
+  },
+  "fechaEvaluacion": {
+    "$date": "2025-01-20T09:30:00.000Z"
+  },
+  "motivoConsulta": "Problemas de sueño",
+  "diagnostico": "Insomnio primario",
+  "recomendaciones": "Rutina de higiene del sueño, evitar cafeína",
+  "nivelRiesgo": "bajo",
+  "paciente": {
+    "_id": {
+      "$oid": "692cf6ce9ac52478b7b8f4c5"
+    },
+    "nombre": "Carlos",
+    "apellidoPaterno": "Díaz"
+  },
+  "psicologo": {
+    "_id": {
+      "$oid": "693089211f3a2956364521fd"
+    },
+    "nombre": "María",
+    "apellidoPaterno": "Gutiérrez"
+  }
+}]
